@@ -29,15 +29,11 @@ public class Main {
     Persoana ja = new Persoana("John Atkins", 18);
     Persoana tt = new Persoana("Tim Tom", 55);
 
-    // []
+
     persoane.add(tt);
-    // ["Tim Tom"]
     persoane.add(jd1);
-    // ["John Doe", "Tim Tom"]
     persoane.add(jd2);
-    // ["John Doe 2","John Doe", "Tim Tom"]
     persoane.add(jd3);
-    // ["John Doe 25","John Doe 30", "John Doe 32", "Tim Tom 55"]
     persoane.add(jj);
     persoane.add(ja);
 
