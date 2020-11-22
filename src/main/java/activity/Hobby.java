@@ -17,7 +17,7 @@ public class Hobby {
     this.frequency = frequency;
     this.adresses = adresses;
   }
-
+//test
   public String getName() {
     return name;
   }
